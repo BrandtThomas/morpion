@@ -1,0 +1,12 @@
+.case{
+    border: solid black 1px;
+    height: 100px;
+    width: 100px;
+
+}
+
+.sectionCase{
+    display: flex;
+    flex-wrap: wrap;
+    width: 320px;
+}
